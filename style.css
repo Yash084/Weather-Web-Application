@@ -1,0 +1,16 @@
+body{
+    overflow-x: hidden;
+}
+
+main{
+    margin-top: 12vh;
+}
+
+
+.headline{
+    margin-top: 4vh;
+}
+
+.mr-x{
+    margin-left: 59vw;
+}
